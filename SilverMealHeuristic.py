@@ -1,5 +1,5 @@
 #########################################################
-# SILVER MEAL HEURISTIK (composed by Edward A. Silver & H.C. Meal)
+# SILVER MEAL HEURISTIC (composed by Edward A. Silver & H.C. Meal)
 # Heuristic for the dynamic lot-size model
 #########################################################
 
